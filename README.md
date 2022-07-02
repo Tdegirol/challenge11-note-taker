@@ -13,7 +13,7 @@
   The challenge is using express to connect the front end application to the server end.
   Image below of homepage and notes page:
   ![Media-Queries-Image](./public/assets/images/homepage.jpg)
-  ![Media-Queries-Image](./public/assets/images/homepage.jpg)
+  ![Media-Queries-Image](./public/assets/images/Notes.jpg)
 
   <a id="install"></a>
   ## Installation 
