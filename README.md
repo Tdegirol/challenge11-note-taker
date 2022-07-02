@@ -1,5 +1,4 @@
-# Note Taker Starter Code
-# challenge10-team-profile-generator
+# Note-Taker
 
   ## Table of Contents
   - [Description](#description)
